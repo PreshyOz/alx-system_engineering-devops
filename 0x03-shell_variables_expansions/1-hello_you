@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello PreshyOz'
+echo 'hello user' $u
